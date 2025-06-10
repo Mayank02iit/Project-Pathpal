@@ -1,0 +1,11 @@
+/__pycache__
+/.vscode
+/all_data_3
+/all_data
+/new_data_2
+/no_aug_images
+/no_data
+/venv
+/zipfiles
+/augumentation_data/new_data_2
+/augumentation_data/new_data_2.zip
